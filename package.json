@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^5.11.0",
     "@testing-library/react": "^10.4.3",
     "@testing-library/user-event": "^12.0.11",
@@ -12,6 +14,7 @@
     "@types/react": "^16.9.41",
     "@types/react-dom": "^16.9.8",
     "axios": "^0.19.2",
+    "axios-cache-adapter": "^2.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",

@@ -1,7 +1,7 @@
 const SEPARATOR = '//**//';
 const CACHE_INTERVAL = 0.2 * 60 * 1000;
 
-const setupCache = (): void => localStorage.clear();
+// const setupCache = (): void => localStorage.clear();
 
 const store = (key: string, value: string) => {
   const finalValue = `${value}${SEPARATOR}${Date.now().toString()}`;
