@@ -2,9 +2,7 @@
 
 ## react-cache-handler
 
-![CI](https://github.com/almond-hydroponics/almond-re/workflows/CI/badge.svg)
-[![Maintainability](https://api.codeclimate.com/v1/badges/1787ab6745c18d366de9/maintainability)](https://codeclimate.com/github/almond-hydroponics/almond-re/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/1787ab6745c18d366de9/test_coverage)](https://codeclimate.com/github/almond-hydroponics/almond-re/test_coverage)
+![CI](https://github.com/mashafrancis/react-cache-handler/workflows/CI/badge.svg)
 
 </div>
 
